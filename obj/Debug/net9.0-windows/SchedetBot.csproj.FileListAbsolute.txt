@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\bin\Debug\net9.0-windows\SchedetBot.exe
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\bin\Debug\net9.0-windows\SchedetBot.deps.json
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\bin\Debug\net9.0-windows\SchedetBot.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\bin\Debug\net9.0-windows\SchedetBot.dll
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\bin\Debug\net9.0-windows\SchedetBot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.Form1.resources
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.sourcelink.json
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.dll
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\refint\SchedetBot.dll
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\SchedetBot.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG6221\PROG6221\SchedetBot\obj\Debug\net9.0-windows\ref\SchedetBot.dll
